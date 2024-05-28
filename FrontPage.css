@@ -1,0 +1,71 @@
+img{
+    width: 100%;
+    height: auto;
+}
+.textOverlay{
+    position: relative;
+    width: 1250px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bottom-left {
+    position: absolute;
+    bottom: 94px;
+    left: 16px;
+  }
+.top-left {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+  }
+.top-center {
+    position: absolute;
+    top: 25px;
+    right: 320px;
+  }
+.top-nextcenter  {
+    position: absolute;
+    top: 33px;
+    right: 210px;
+  }
+.top-nextl {
+    position: absolute;
+    top: 33px;
+    right: 140px;
+}
+.top-nextone {
+    position: absolute;
+    top: 33px;
+    right: 60px;
+}
+.centered {
+  position: absolute;
+  top: 28%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.size{
+   font-size: 70px;
+}
+.center{
+  position: absolute;
+  top: 71%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.smallcenter{
+  width: 500px;
+  position: absolute;
+  top: 110%;
+  left: 22%;
+  transform: translate(-50%, -50%);
+}
+.dosmth{
+  position: absolute;
+  top: 102.5%;
+  left: 50%;
+}
+.sizez{
+  font-size: 50px ;
+}
